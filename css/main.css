@@ -1735,7 +1735,17 @@ input::-moz-focus-inner {
   position: absolute;
   top: 0;
   right: 40px;
+  font-family: "montserrat", sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .3rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0 0 0 4px;
+  z-index: 2;
+  font-weight: 600;
 }
+
+
 
 .header-social li {
   margin-right: 1rem;
@@ -1746,7 +1756,7 @@ input::-moz-focus-inner {
 }
 
 .header-social li a {
-  color: #ffffff;
+  color: #cf1767;
 }
 
 /* ------------------------------------------------------------------- 
