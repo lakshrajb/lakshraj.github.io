@@ -1746,7 +1746,6 @@ input::-moz-focus-inner {
 }
 
 
-
 .header-social li {
   margin-right: 1rem;
 }
@@ -1918,7 +1917,7 @@ input::-moz-focus-inner {
   }
 
   .header-nav-wrap .header-social li {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     margin-right: 1.6rem;
   }
 
