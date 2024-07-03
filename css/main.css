@@ -1,55 +1,4 @@
-/* =================================================================== 
- *
- *  Epitome Main Stylesheet
- *  Template Ver. 1.0.0
- *  04-22-2019
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  # base style overrides
- *     ## links
- *  # typography & general theme styles
- *    ## Lists
- *    ## responsive video container
- *    ## floated image
- *    ## tables
- *    ## Spacing 
- *    ## pace.js styles - minimal
- *  # preloader
- *  # forms 
- *    ## Style Placeholder Text
- *    ## Change Autocomplete styles in Chrome
- *  # buttons
- *  # additional components
- *    ## additional typo styles 
- *    ## skillbars
- *    ## alert box 
- *    ## pagination 
- *  # Common and Reusable Styles
- *  # header 
- *    ## header logo
- *    ## main navigation
- *    ## menu trigger
- *  # intro 
- *  # about
- *    ## timeline
- *  # services
- *  # CTA
- *  # works
- *  # testimonials
- *  # contact
- *  # footer
- *    ## copyright
- *    ## go to top
- *  # IE10/IE11 Specific
- *
- * =================================================================== */
-
-
-
-/* ===================================================================
- * # base style overrides
- *
+/
  * ------------------------------------------------------------------- */
 html {
   font-size: 10px;
@@ -2779,8 +2728,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  padding-top: 9.2rem;
+  padding-bottom: 6rem;
   background-color: #f9f9f9;
 }
 
@@ -2812,6 +2761,8 @@ input::-moz-focus-inner {
 
 /* item-folio thumb
  * -------------------------------------- */
+
+
 .item-folio__thumb {
   position: relative;
   overflow: hidden;
